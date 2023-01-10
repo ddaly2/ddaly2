@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-<div style="text-align: center; color: blue;">Weclome to my GitHub, where dreams become repositories (or something like that)
+<div align="center">
+  <h1>Where dreams become repositories... or something like that</h1>
 </div>
 - 🔭 I’m currently working on a Python web scraper
 - 🌱 I’m currently learning: Scientific Computing w/ Python
