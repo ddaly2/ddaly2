@@ -1,5 +1,5 @@
+![banner (1)](https://user-images.githubusercontent.com/104313049/211453457-8fe5f330-e21a-4c96-8f00-7f713109b122.png)
 
-![banner](https://user-images.githubusercontent.com/104313049/211452847-04080f7c-cbde-4210-8cb0-ba3f8bf6c4b9.png)
 
 - 🔭 I’m currently working on a Python web scraper
 - 🌱 I’m currently learning: Scientific Computing w/ Python
