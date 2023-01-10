@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![banner](https://user-images.githubusercontent.com/104313049/211452847-04080f7c-cbde-4210-8cb0-ba3f8bf6c4b9.png)
 
 - 🔭 I’m currently working on a Python web scraper
 - 🌱 I’m currently learning: Scientific Computing w/ Python
