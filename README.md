@@ -1,6 +1,6 @@
 ![banner (1)](https://user-images.githubusercontent.com/104313049/211453457-8fe5f330-e21a-4c96-8f00-7f713109b122.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 <div style="text-align: center;">Weclome to my GitHub, where dreams become repositories (or something like that)
 </div>
