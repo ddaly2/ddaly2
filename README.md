@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-<div align="center">
-  <h1>Where dreams become repositories... or something like that</h1>
-</div>
+
 - 🔭 I’m currently working on a Python web scraper
-- 🌱 I’m currently learning: Scientific Computing w/ Python
+
+- 🌱 I’m currently learning: Java Fundamentals
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddaly2&theme=transparent)](https://github.com/ddaly2/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaly2&layout=compact&theme=transparent)](https://github.com/ddaly2/github-readme-stats)
