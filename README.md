@@ -2,11 +2,30 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
+## My status
 
-- 🔭 I’m currently working on a Python web scraper
+- 🔭 I’m currently working on:
 
-- 🌱 I’m currently learning: Java Fundamentals
+  **A React App for Video Games Lookup**
 
-[![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddaly2&theme=transparent)](https://github.com/ddaly2/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaly2&layout=compact&theme=transparent)](https://github.com/ddaly2/github-readme-stats)
+- 🌱 I’m currently learning: 
+
+  [**React 18 and its most recent updates**](https://react.dev/blog/2023/03/16/introducing-react-dev?utm "Check out the docs")
+  <br>
+## Contact me
+[Reach out to me on LinkedIn](https://www.linkedin.com/in/dalton-daly/ "View my LinkedIn profile")
+  
+<br>
+<br>
+<br>
+  
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaly2&layout=compact&theme=transparent" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ddaly2&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</div>
+
+
+
+
+
 
